@@ -1,5 +1,5 @@
 {
- "key": "f88643c9",
+ "key": "973873ca",
  "stars": 0,
  "contributions": 27,
  "repos": 4,
@@ -114,9 +114,13 @@
    {
     "c": 4,
     "day": 23,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 24,
+    "today": true
+   }
   ]
  ],
  "streak": {
