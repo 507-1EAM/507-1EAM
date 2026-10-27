@@ -1,5 +1,5 @@
 {
- "key": "c013feb",
+ "key": "a33e62c5",
  "stars": 0,
  "contributions": 30,
  "repos": 4,
@@ -111,7 +111,31 @@
   "current": 0,
   "longest": 3
  },
- "pins": [],
+ "pins": [
+  {
+   "name": "DZIP",
+   "url": "https://github.com/507-1EAM/DZIP",
+   "text": "Простой CLI архиватор/разахиватор",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": [
+    "cli",
+    "cli-tool",
+    "tar",
+    "zip"
+   ]
+  },
+  {
+   "name": "FunPay-Tools-Firefox",
+   "url": "https://github.com/507-1EAM/FunPay-Tools-Firefox",
+   "text": "FunPay Tools - Расширение для Firefox",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  }
+ ],
  "all": [
   {
    "name": "DZIP",
