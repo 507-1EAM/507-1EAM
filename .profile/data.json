@@ -1,5 +1,5 @@
 {
- "key": "cd19c1a2",
+ "key": "491ec365",
  "stars": 0,
  "contributions": 35,
  "repos": 5,
@@ -122,13 +122,17 @@
    {
     "c": 0,
     "day": 30,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 31,
+    "today": true
+   }
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 0,
   "longest": 3
  },
  "pins": [
